@@ -26,8 +26,8 @@ The goal of this project was to analyze car dealership data and visualize key pe
 - **Data Analysis**: Derived insights from raw data.  
 
 ## Repository Files  
-- `CarSalesByModelEnd.xlsx`: Final Excel file containing pivot tables and charts.  
-- `Car_Sales_Service_Dashboard.pdf`: PDF version of the exported dashboard report from Google Looker Studio.
+- `Vasatika_CarSalesByModelEnd.xlsx`: Final Excel file containing pivot tables and charts.  
+- `Vasatika_Car_Sales_Service_Dashboard.pdf`: PDF version of the exported dashboard report from Google Looker Studio.
 
 ## Data Used  
 The dataset for this project can be accessed through the IBM Analytics Accelerator platform:  
